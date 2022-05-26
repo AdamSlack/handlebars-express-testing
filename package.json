@@ -9,8 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "callsite": "^1.0.0",
     "express": "^4.17.3",
-    "express-handlebars": "^6.0.4"
+    "express-handlebars": "^6.0.4",
+    "handlebars": "^4.7.7",
+    "parent-module": "^3.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.17.9",
